@@ -180,7 +180,7 @@ FIG-3
 
 
 
-## If you have successfully set up the rewrite rules for Nagios and can access the application without any issues, that's great news! 
+## If you have successfully set up for Nagios and can access the application without any issues, that's great news! 
 
 
 
@@ -190,5 +190,5 @@ FIG-3
 
 **You can give credit and share this with your peers and follow me on LinkedIn for more..**
 
-### https://www.linkedin.com/in/ritikktiwari/
+### LinkedIn : https://www.linkedin.com/in/ritikktiwari/
 
