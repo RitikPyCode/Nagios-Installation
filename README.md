@@ -3,19 +3,34 @@
 
 *****************CODE USED FOR INSTALLATION*******************
 
+## Pre-requisite:
+
+1- httpd (brower)
+
+2- php (Dashboard)
+
+3- gcc & gd (compiler to convert)
+
+4- make file ( to build)
+
+5- perl ( script)
+
 '''
+
 sudo su
+
 '''
-yum install httpd php
 
-yum install gcc glibc glibc-common
+### yum install httpd php
 
-yum install gd gd-devel
+### yum install gcc glibc glibc-common
+
+### yum install gd gd-devel
 
 ''
-adduser -m nagios
+### adduser -m nagios
 
-passwd nagios
+### passwd nagios
 
 
 ''
