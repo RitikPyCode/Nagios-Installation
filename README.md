@@ -11,7 +11,9 @@ yum install gd gd-devel
 ''
 adduser -m nagios
 passwd nagios
+
 ''
+
 groupadd nagioscmd
 usermod -a -G nagioscmd nagios
 usermod -a -G nagioscmd apache
