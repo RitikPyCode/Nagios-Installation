@@ -1,10 +1,11 @@
 # Nagios-Installation
-Nagios-Installation-configuration
+## Nagios-Installation-configuration
 
 *****************CODE USED FOR INSTALLATION*******************
 
+'''
 sudo su
-
+'''
 yum install httpd php
 
 yum install gcc glibc glibc-common
